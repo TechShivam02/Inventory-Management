@@ -1,2 +1,6 @@
 shivam.txt
 shivam_codeExp.txt
+.venv/
+__pycache__/
+*.db
+.env

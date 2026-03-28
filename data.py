@@ -6,3 +6,6 @@ product_id_counter = 1
 order_id_counter = 1
 activity_id_counter = 1
 
+
+
+# use this   inventory.db from now 
